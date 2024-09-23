@@ -16,13 +16,8 @@ A script to fetch and clean HTML from a given URL.
     cd nyNotTimes
     ```
 
-3. Install the dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Install the script as a command-line tool:
+3. Install the script as a command-line tool:
 
     ```bash
     pip install .
