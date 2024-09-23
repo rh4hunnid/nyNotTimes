@@ -1,6 +1,8 @@
 # nyNotTimes
 
-A script to fetch and clean HTML from a given URL.
+A script to fetch and clean HTML from a given URL. 
+Removes all scripts and comments from returned sites and displays it locally
+bypasses simple js based paywalls and certain ad policys
 
 ## Installation
 
